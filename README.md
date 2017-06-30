@@ -17,7 +17,12 @@ Welcome to the DML 2017 Learning Analytics Workshop 2017! We are excited to meet
 * Once you have installed both programs, open RStudio (RStudio will automatically open R at the same time)
 * R is modular, you install mini-programs called packages within it like apps on your phone to do specific tasks, in this activity we will be using the Swirl package. Swirl is a teaching tool for learning R, it comprises questions and answers and a bit of AI (for positive reinforcement)
 * Install the Swirl package by typing `install.packages("swirl")` in the console window (located on the left hand side of the RStudio interface)
-* Once we have installed the package we need to turn it on, we do this by inputing the code `library(swirl)`
-* Now we need to load a lesson into Swirl, to do this cut and paste the following code into the console window:
+* Once we have installed the package we need to turn it on, we do this by inputing the code `library(swirl)` - Swirl will tell you to type `swirl()` but don't do that just yet
+* First we need to load a lesson into Swirl, to do this cut and paste the following code into the console window (you will need to be connected to the internet):  
+`install_course_github("DML-Learning-Analytics", "pre-workshop-activity")`
+* Once the lesson finishes installing type `swirl()`, Swirl will then guide you through the setting up a user Id (please use your full name so we can identify you later)
+* At the completion of the lesson you will submit your answers through a Google form. We will collect information on how many questions you answers, how many attempts you took to answer each question and the time you answered
+
+##Thanks for joing us at the DML 2017 Learning Analytics Workshop!
 
 
