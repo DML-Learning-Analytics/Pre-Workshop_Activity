@@ -242,12 +242,4 @@
   CorrectAnswer: my_div
   AnswerTests: omnitest(correctExpr='my_div')
   Hint: If your programming environment doesn't support auto-completion, just type my_div and hit Enter to move on.
-
-- Class: mult_question
-  Output: You will now be redirected to Google Forms to submit your the log file of this lesson.
-  AnswerChoices: Ok
-  CorrectAnswer: NULL
-  AnswerTests: submit_log()
-  Hint: ""
-  
   
