@@ -6,7 +6,7 @@ Welcome to the DML 2017 Learning Analytics Workshop 2017! We are excited to meet
 
 ## Installing R
 * Choose a [download mirror site](https://cran.r-project.org/mirrors.html) from the list that is close to you geographically  
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+[Link](https://example.org/ "title" target="_blank")
 * Download the version of R that is appropriate to your operating system
 * Install R in a manner appropriate to your operating system ([MacOSX](https://youtu.be/Ywj6yNfc5nM), [PC](https://youtu.be/5ZbjUEg4a1g))
 
